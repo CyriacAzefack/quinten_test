@@ -1,7 +1,5 @@
 # Quinten Test Case
 
-Description brève du projet.
-
 ## Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé Python sur votre système. Vous aurez également besoin de pip, l'outil de gestion de paquets Python. Si ce n'est pas déjà fait, vous pouvez le télécharger depuis le site officiel de Python : [Télécharger Python](https://www.python.org/downloads/).
