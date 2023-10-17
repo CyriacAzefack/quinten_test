@@ -1,5 +1,0 @@
-from sklearn.linear_model import LogisticRegression
-from sklearn.feature_selection import RFECV
-from sklearn.model_selection import StratifiedKFold
-
-import matplotlib.pyplot as plt

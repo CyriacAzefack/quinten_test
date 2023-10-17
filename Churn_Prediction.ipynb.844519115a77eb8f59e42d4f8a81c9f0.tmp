@@ -1,5 +1,0 @@
-cat_cols = [x for x in df.columns if df[x].dtype == "object"]
-
-num_cols = [x for x in df.columns if df[x].dtype != "object"]
-
-cat_cols

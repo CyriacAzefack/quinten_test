@@ -1,2 +1,0 @@
-fig = px.pie(df, names="churn", title="Percentage of Churn Customer")
-fig.show()

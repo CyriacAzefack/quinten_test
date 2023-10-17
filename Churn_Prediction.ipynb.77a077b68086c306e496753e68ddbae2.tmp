@@ -1,3 +1,0 @@
-from explainerdashboard import ClassifierExplainer
-
-explainer = ClassifierExplainer(lr_model, X_test, y_test, X_background=X_test_origin)

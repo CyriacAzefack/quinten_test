@@ -1,3 +1,0 @@
-df.replace(r"^\s*$", np.nan, regex=True, inplace=True)
-
-df = df.drop(["id_client"], axis=1)

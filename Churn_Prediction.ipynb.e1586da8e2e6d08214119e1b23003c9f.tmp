@@ -1,5 +1,0 @@
-for feat in num_cols:
-    fig = px.box(df, x="churn", y=feat, title=f"{feat} Distribution")
-    fig.show()
-
-    df.loc[df[feat].isnull(), feat] = df[feat].mean()

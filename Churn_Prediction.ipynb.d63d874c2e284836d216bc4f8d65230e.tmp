@@ -1,3 +1,0 @@
-encoded_df.rename(inplace=True, columns={"churn_1": "churn"})
-
-encoded_df.head()

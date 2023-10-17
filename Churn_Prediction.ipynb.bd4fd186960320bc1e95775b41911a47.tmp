@@ -1,5 +1,0 @@
-df.sort_values("agios_6mois", ascending=True, inplace=True)
-# Get dummies
-df_cat_dummies = pd.get_dummies(df[cat_cols], prefix_sep="_", drop_first=True)
-
-df_cat_dummies.head()

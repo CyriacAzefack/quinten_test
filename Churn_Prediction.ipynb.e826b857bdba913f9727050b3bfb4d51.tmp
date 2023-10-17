@@ -1,2 +1,0 @@
-df.loc[df.churn == "oui", "churn"] = 1
-df.loc[df.churn == "non", "churn"] = 0
