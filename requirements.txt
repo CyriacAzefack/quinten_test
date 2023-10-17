@@ -5,3 +5,4 @@ pandas
 numpy
 notebook
 explainerdashboard
+streamlit
