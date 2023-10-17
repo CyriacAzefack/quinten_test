@@ -1,0 +1,4 @@
+selected_features = list(feature_selector.feature_names_in_)
+selected_features
+
+len(feature_selector.get_support())

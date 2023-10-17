@@ -1,0 +1,1 @@
+encoded_df = pd.concat([df_cat_dummies, df[num_cols]], axis=1)

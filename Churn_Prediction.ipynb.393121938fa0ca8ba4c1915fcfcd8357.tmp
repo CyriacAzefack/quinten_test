@@ -1,0 +1,7 @@
+public_cols = [x for x in df.columns if not x.startswith("var_")]
+
+anon_cols = [x for x in df.columns if x.startswith("var_")]
+
+msno.matrix(df[public_cols], sort="ascending")
+
+msno.matrix(df[anon_cols], sort="ascending")

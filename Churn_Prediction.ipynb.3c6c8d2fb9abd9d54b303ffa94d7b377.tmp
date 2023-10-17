@@ -1,0 +1,2 @@
+X = encoded_df.drop(columns=["churn"])
+y = encoded_df["churn"].values

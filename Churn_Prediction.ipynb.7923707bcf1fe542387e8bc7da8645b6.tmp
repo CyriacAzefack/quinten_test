@@ -1,0 +1,3 @@
+msno.matrix(df[cat_cols], sort="ascending")
+
+msno.matrix(df[num_cols], sort="ascending")

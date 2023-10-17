@@ -1,0 +1,5 @@
+df.interet_compte_epargne_total = pd.to_numeric(df.interet_compte_epargne_total)
+
+df.loc[df.espace_client_web == 1, "espace_client_web"] = "oui"
+df.loc[df.espace_client_web == 0, "espace_client_web"] = "non"
+# df.espace_client_web = df.espace_client_web.astype("str")

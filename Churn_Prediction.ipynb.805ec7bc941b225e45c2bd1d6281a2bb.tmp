@@ -1,0 +1,2 @@
+fig = px.imshow(corr, text_auto=True)
+fig.show()

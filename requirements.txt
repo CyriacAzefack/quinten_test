@@ -3,3 +3,5 @@ missingno
 plotly
 pandas 
 numpy
+notebook
+explainerdashboard
